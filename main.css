@@ -1,3 +1,28 @@
 body{
   background-color: salmon;
+  margin: auto;
+  font-family: arial, Helvetica, sans-serif;
+  width:90%;
+  text-align: center;
+}
+.dark-mode {
+  background-color: black;
+  color: white; 
+}
+  
+textarea {
+  background: white; 
+  font-size: 1.5em;
+  width: 100%;
+  border: 1px solid #888;
+  margin: auto;
+}
+button{
+  background-color: green;
+  color: white;
+  padding: 0.5em 0.5em;
+  font-size: 1.5em;
+}
+::placeholder{
+  color: blue;
 }
