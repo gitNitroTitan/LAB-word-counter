@@ -5,10 +5,6 @@ body{
   width:90%;
   text-align: center;
 }
-.dark-mode {
-  background-color: black;
-  color: white; 
-}
   
 textarea {
   background: white; 
@@ -28,4 +24,10 @@ button{
 } */
 label{
   color: blue;
+}
+.error {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  font-size: 2em;
 }
