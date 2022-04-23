@@ -16,9 +16,7 @@ const wordCounter = (value) => {
 
 // OPTIONAL CHALLENGE
 const toggleMode = (btnText) => {
-
 }
-
 // ************************************************ //
 // **** DO NOT MODIFY THE CODE BELOW THIS LINE **** //
 // ************************************************ //
